@@ -40,6 +40,7 @@ const AddCatForm = ({ onAddCat }) => {
         placeholder="Image URL"
         required
       />
+      <br />
       <button type="submit">Add Cat</button>
     </form>
   );
